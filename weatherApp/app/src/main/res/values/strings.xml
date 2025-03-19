@@ -1,0 +1,10 @@
+<resources>
+<string name="app_name">Weather App</string>
+<string name="enter_city">Enter City</string>
+<string name="get_weather">Get Weather</string>
+<string name="api_key">f73b51839810940aaa34e0f339af2c51</string>
+<string name="city_format">City: %s</string>
+<string name="temperature_format">Temperature: %.2f°C</string>
+<string name="description_format">Description: %s</string>
+<string name="loading">Loading...</string>
+</resources>
